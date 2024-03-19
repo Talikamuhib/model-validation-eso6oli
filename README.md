@@ -1,37 +1,12 @@
 # model-validation-eso6oli
 
-This repository contains data, figures, and notebooks for the project.
+The repository is organized into the following folders:
 
-## Contents
-
-- [Data](#data)
-- [Figures](#figures)
-- [Notebooks](#notebooks)
-
-### Data
-
-Description of the data files and how to use them.
-
-### Figures
-
-Description of the figures and how to interpret them.
-
-### Notebooks
-
-Description of the notebooks and their purpose.
-
-## Files
-
-- Week 2 - T1.ipynb
-- Week 2 - T2.ipynb
-- Week 2 - T3.ipynb
-- .gitignore
-- LICENSE
-
-## Service
-
-- service.py: Description of the service and how to use it.
+- `/notebooks`: Contains Jupyter notebooks where most of the work is being developed.
+- `/data`: Contains all the .csv files. Model predictions are obtained outside this repository and saved in this folder. Subfolders might be created if needed.
+- `/src`: Contains important functions that will be reused throughout the repository to avoid typing them each time.
+- `/figures`: Contains the plots produced during the model validation process.
 
 ## License
 
-This project is licensed under the [License Name] - see the [LICENSE](LICENSE) file for details.
+All code in this repository is licensed under the GPLv3 License.
