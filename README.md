@@ -9,4 +9,4 @@ The repository is organized into the following folders:
 
 ## License
 
-All code in this repository is licensed under the GPLv3 License.
+All code in this repository is licensed under the Apache License 2.0.
