@@ -1,4 +1,4 @@
-# model-validation-eso6oli
+# Model-validation-eso6oli
 
 The repository is organized into the following folders:
 
@@ -7,7 +7,7 @@ The repository is organized into the following folders:
 - `/src`: Contains important functions that will be reused throughout the repository to avoid typing them each time.
 - `/figures`: Contains the plots produced during the model validation process.
 
-Goals
+## Goals
 Identify and quantify potential biases present in Ersilias EOS6oli and Soltranet models.
 Evaluate the reproducibility of model predictions across diverse datasets or environments.
 Measure and compare the performance of the models using relevant metrics and benchmarks.
