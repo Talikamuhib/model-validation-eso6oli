@@ -28,7 +28,7 @@
             <p>This file contains unique data extracted or derived from the ChEMBL database.</p>
         </li>
         <li>
-            <strong>hembl_stand (1).csv:</strong>
+            <strong>Chembl_stand (1).csv:</strong>
             <p>It contains standardized data from the ChEMBL database.</p>
         </li>
         <li>
