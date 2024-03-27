@@ -24,8 +24,16 @@
             <p>A comprehensive dataset comprising Simplified Molecular Input Line Entry System (SMILES) representations, ready for various chemical analyses.</p>
         </li>
         <li>
-            <strong>:</strong>
-            <p>A comprehensive dataset comprising Simplified Molecular Input Line Entry System (SMILES) representations, ready for various chemical analyses.</p>
+            <strong>unique_chembl.csv:</strong>
+            <p>This file contains unique data extracted or derived from the ChEMBL database.</p>
+        </li>
+        <li>
+            <strong>hembl_stand (1).csv:</strong>
+            <p>It contains standardized data from the ChEMBL database.</p>
+        </li>
+        <li>
+            <strong>output.csv:</strong>
+            <p>It contains predictions of Ersilia eos6oli.</p>
         </li>
     </ul>
 </body>
